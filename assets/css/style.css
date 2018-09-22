@@ -1,0 +1,45 @@
+body{
+    background-image:url("../images/backgroundsoccer.jpg");
+    }
+
+
+.container{
+    margin-top:20px;
+    background-color: blue;
+    height: 600px;
+    
+}
+
+.thisChoice:hover{
+background-color: aqua;
+width:100px;
+}
+
+#TheHeader{
+    margin-left: 250px;
+
+}
+
+#StartButton{
+    margin-left: 450px;
+    margin-top: 20px;
+
+}
+
+
+#Tryagain{
+    background-color: aqua;
+    width:200px;
+}
+
+.QuestionSection{
+    color:#ffff;
+}
+
+.AnserwerSection{
+    color: red;
+}
+
+.ResultSection{
+    color:red;
+}
